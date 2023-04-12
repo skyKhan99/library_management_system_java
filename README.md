@@ -3,9 +3,9 @@ A library management application with java codes.
 
 # Main Frame
 You can login as admin or librarian. For login as librarian, first create a librarian in Admin Panel.
-Default Admin Login Info:
-ID: admin
-Password: admin
+>Default Admin Login Info:
+>ID: admin
+>Password: admin
 ![Screenshot](1.jpg)
 
 # Admin Panel
